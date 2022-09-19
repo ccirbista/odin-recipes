@@ -1,0 +1,23 @@
+p{
+    color: red;
+    text-align: center;
+
+}
+
+h1{
+    color: blue;
+}
+h2{
+    background-color: yellow;
+}
+.momo-heading{
+    background-color: aqua;
+    color: red;
+}
+.momo-pic{
+    width: 500px;
+    height: auto;
+}
+.ingredient-list{
+    font-weight: bold;
+}
